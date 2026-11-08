@@ -1,0 +1,6 @@
+.env
+.env.*
+.venv*/
+.ipynb_checkpoints/
+__pycache__/
+results_23.json
